@@ -24,7 +24,7 @@ p{
     width: 100%;
 }
 .top-banner {
-    background-image: url("img/top-banner.png");
+    background-image: url("Resources/top-banner.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -55,7 +55,7 @@ section{
     font-weight: 700;
 }
 .dream-area{
-    background-image: url("img/dream-bg.png");
+    background-image: url("Resources/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -69,7 +69,7 @@ section{
     box-sizing: border-box;
 }
 .experience-area{
-    background-image: url("img/exp-bg.png");
+    background-image: url("Resources/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
     text-align: center;
